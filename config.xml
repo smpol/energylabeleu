@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>energylabeleu</name>
+	<displayName><![CDATA[Energy Label EU]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Show Energy Efficiency on Page]]></description>
+	<author><![CDATA[Michał Przysiężny]]></author>
+	<tab><![CDATA[content_management]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
